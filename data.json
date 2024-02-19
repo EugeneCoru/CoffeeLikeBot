@@ -1,0 +1,166 @@
+{
+    "таблицы":[
+        {  
+            "name": "Шпора",
+            "link": "https://docs.google.com/spreadsheets/d/1RqDm9ERKYGGclCB8BRE3DidmpufzhzN61T32gGVJhpg/edit#gid=0" 
+        },
+        { 
+            "name": "Обучения",
+            "link": "https://docs.google.com/spreadsheets/d/1YaMCtERpd3shRWloeK-b9kYgKH2ikAIptStvSBzLMYc/edit#gid=0" 
+        },
+        { 
+            "name": "График",
+            "link": "https://docs.google.com/spreadsheets/d/1uK1OyW0JmBx8ndwsaTXsrkXtTKnp2LCUk0IoMkc_5nM/edit#gid=8450592820" 
+        },
+        { 
+            "name": "FAQ",
+            "link": "https://docs.google.com/spreadsheets/d/1tyceUTA5XTW7OmaCDxuUkEee3wt4VYMTsrtQaOGCx8k/edit#gid=0" 
+        }
+        
+    ],
+   
+    "точки":[
+        {   
+            "street": "Ошарская 21(Офис)",
+            "nik": ["ОШАРСКАЯ", "ОШАРА",  "ОШАРКА", "О" ],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana",
+            "img": "ОШАРА"
+            
+        },
+        {   
+            "street": "ул.Покровская 10",
+            "nik": ["ПОКРА", "П",  "ПОКРОВСКАЯ", "ПОК"] ,
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+        },
+        {   
+            "street": "ул.Максима Горького 117",
+            "nik": ["СТОЛИЦА", "Г117",  "К"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Максима Горького 262",
+            "nik": ["СЕННАЯ", "С",  "ГОРЬКОГО 262", "Г262"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Ленина 33, ТЦ 'Муравей'",
+            "nik": ["Л33", "ЛЕНИНА 33",  "ТАРАКАН", "МУРАВЕЙ"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Белинского 118",
+            "nik": ["БЕЛИНКА", "Б",  "Б118"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "д.Федяково, ТРЦ 'МЕГА'",
+            "nik": ["МЕГА", "М"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Рождественская 16",
+            "nik": ["РОЖДА", "Р",  "РЖ","РЖ1", "РЖ2"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Ковалихинская 8",
+            "nik": ["ЦМТ", "КОВАЛИХИНСКАЯ 8",  "Ц", "КОВАЛИХА"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Максима Горького 154",
+            "nik": ["Г154", "ГОРЬКОГО 154",  "МАКСИМА ГОРЬКОГО 154"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Варварская 10/25",
+            "nik": ["ВАРВАРКА", "ВАРВАРСКАЯ",  "В"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Бетанкура 1, ТРЦ 'Седьмое небо'",
+            "nik": ["7НЕБО", "СЕДЬМУХА",  "7Н"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Максима Горького 154",
+            "nik": ["Г154", "ГОРЬКОГО 154",  "МАКСИМА ГОРЬКОГО 154"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Алексеевская 2",
+            "nik": ["АЛЕКС", "АЛЕКСЕЕВСКАЯ",  "А"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        },
+        {
+            "street": "ул.Ленина 79",
+            "nik": ["Л79", "ПРОЛЕТ",  "ПРОЛЕТАРСКАЯ", "ЛЕНИНА 79"],
+            "chat": "<a href='https://t.me/+UvzPVHgg1bxiOGFi'>Здесь</a>",
+            "invoices": "@sergeevna_snezhana"
+            
+        }
+    ],
+    "answer": [ 
+        {
+        "id": 0,
+        "text": "Как правильно?",
+        "hasOptions": true,
+        "options": [
+            {"id": 1, "text": "Бариска", "isCorrect": false},
+            {"id": 2, "text": "Бариста", "isCorrect": true},
+            {"id": 3, "text": "Борозды", "isCorrect": false},
+            {"id": 4, "text": "Бирюза", "isCorrect": false}
+        ]
+    }, 
+    {
+        "id": 1,
+        "text": "Что должно быть?",
+        "hasOptions": true,
+        "options": [
+            {"id": 1, "text": "Кек", "isCorrect": false},
+            {"id": 2, "text": "Лол", "isCorrect": true},
+            {"id": 3, "text": "Аззаза", "isCorrect": false},
+            {"id": 4, "text": "Буубубу", "isCorrect": false}
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Что каво?",
+        "hasOptions": true,
+        "options": [
+            {"id": 1, "text": "Кек", "isCorrect": false},
+            {"id": 2, "text": "Лол", "isCorrect": true},
+            {"id": 3, "text": "Аззаза", "isCorrect": false},
+            {"id": 4, "text": "Буубубу", "isCorrect": false}
+        ]
+    }
+
+
+    ]
+}
