@@ -129,35 +129,57 @@
     "answer": [ 
         {
         "id": 0,
-        "text": "Как правильно?",
+        "text": "Правильная последовательность приготовления Капучино?",
         "hasOptions": true,
         "options": [
-            {"id": 1, "text": "Бариска", "isCorrect": false},
-            {"id": 2, "text": "Бариста", "isCorrect": true},
-            {"id": 3, "text": "Борозды", "isCorrect": false},
-            {"id": 4, "text": "Бирюза", "isCorrect": false}
+            {"id": 1, "text": "Эспрессо, Молоко", "isCorrect": true},
+            {"id": 2, "text": "Вода, Эспрессо", "isCorrect": false},
+            {"id": 3, "text": "Молоко, Эспрессо", "isCorrect": false},
+            {"id": 4, "text": "Вода, Молоко, Эспрессо", "isCorrect": false}
         ]
     }, 
     {
         "id": 1,
-        "text": "Что должно быть?",
+        "text": "Как правильно говорить?",
         "hasOptions": true,
         "options": [
-            {"id": 1, "text": "Кек", "isCorrect": false},
-            {"id": 2, "text": "Лол", "isCorrect": true},
-            {"id": 3, "text": "Аззаза", "isCorrect": false},
-            {"id": 4, "text": "Буубубу", "isCorrect": false}
+            {"id": 1, "text": "Бариста", "isCorrect": true},
+            {"id": 2, "text": "Баристе", "isCorrect": false},
+            {"id": 3, "text": "Баристу", "isCorrect": false},
+            {"id": 4, "text": "Барис", "isCorrect": false}
         ]
     },
     {
         "id": 2,
-        "text": "Что каво?",
+        "text": "Кто отвечает за поставку расходников на кофе точки?",
         "hasOptions": true,
         "options": [
-            {"id": 1, "text": "Кек", "isCorrect": false},
-            {"id": 2, "text": "Лол", "isCorrect": true},
-            {"id": 3, "text": "Аззаза", "isCorrect": false},
-            {"id": 4, "text": "Буубубу", "isCorrect": false}
+            {"id": 1, "text": "ГТО", "isCorrect": false},
+            {"id": 2, "text": "Офис", "isCorrect": false},
+            {"id": 3, "text": "МТО", "isCorrect": true},
+            {"id": 4, "text": "Шеф бара", "isCorrect": false}
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Что вы должны сделать, если согласились выйти за другого бариста на смену?",
+        "hasOptions": true,
+        "options": [
+            {"id": 1, "text": "Отжумания", "isCorrect": false},
+            {"id": 2, "text": "Выпить дополнительный кофе", "isCorrect": false},
+            {"id": 3, "text": "Ничего не делать", "isCorrect": false},
+            {"id": 4, "text": "Отметиться в таблице", "isCorrect": true}
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Штраф за не выход на смену?",
+        "hasOptions": true,
+        "options": [
+            {"id": 1, "text": "1000 рублей", "isCorrect": false},
+            {"id": 2, "text": "5000 рублей", "isCorrect": false},
+            {"id": 3, "text": "2000 рублей", "isCorrect": true},
+            {"id": 4, "text": "Твоя жизнь", "isCorrect": false}
         ]
     }
 
